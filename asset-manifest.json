@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/suman313/foodOrder/static/css/main.34868b5f.css",
+    "main.js": "/suman313/foodOrder/static/js/main.9e0f42b4.js",
+    "static/media/logo1.jpeg": "/suman313/foodOrder/static/media/logo1.d725336d35930a2d6aa1.jpeg",
+    "index.html": "/suman313/foodOrder/index.html",
+    "main.34868b5f.css.map": "/suman313/foodOrder/static/css/main.34868b5f.css.map",
+    "main.9e0f42b4.js.map": "/suman313/foodOrder/static/js/main.9e0f42b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34868b5f.css",
+    "static/js/main.9e0f42b4.js"
+  ]
+}
